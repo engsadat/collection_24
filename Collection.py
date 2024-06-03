@@ -6,7 +6,7 @@ import plotly.express as px  # interactive charts
 import streamlit as st  # 🎈 data web app development
 
 st.set_page_config(
-    page_title="Real-Time Data Science Dashboard",
+    page_title="Real-Time Data Collection Dashboard",
     page_icon="✅",
     layout="wide",
 )
